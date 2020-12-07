@@ -1,0 +1,4 @@
+  File "trial.py", line 10, in <module>
+    func()
+  File "trial.py", line 6, in func
+    print(a)
